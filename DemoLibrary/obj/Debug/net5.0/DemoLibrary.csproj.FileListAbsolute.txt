@@ -1,0 +1,12 @@
+C:\Users\rafae\source\repos\MediatRDemo\DemoLibrary\bin\Debug\net5.0\DemoLibrary.deps.json
+C:\Users\rafae\source\repos\MediatRDemo\DemoLibrary\bin\Debug\net5.0\DemoLibrary.dll
+C:\Users\rafae\source\repos\MediatRDemo\DemoLibrary\bin\Debug\net5.0\DemoLibrary.pdb
+C:\Users\rafae\source\repos\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\source\repos\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\rafae\source\repos\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.dll
+C:\Users\rafae\source\repos\MediatRDemo\DemoLibrary\obj\Debug\net5.0\refint\DemoLibrary.dll
+C:\Users\rafae\source\repos\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.pdb
+C:\Users\rafae\source\repos\MediatRDemo\DemoLibrary\obj\Debug\net5.0\ref\DemoLibrary.dll

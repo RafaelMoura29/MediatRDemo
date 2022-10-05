@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MPDPoPD6pt0CfBHRjXpOy6k2Xg64lQJmWIP6mBHwKiMWZxHahZIa7XwzGkFlIEznX9V8juPEYNv8uGmjAWpyFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafae\\source\\repos\\MediatRDemo\\DemoLibrary\\DemoLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

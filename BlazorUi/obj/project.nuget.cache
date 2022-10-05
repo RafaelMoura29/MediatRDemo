@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JJcnI7CWchQxotX/fsbnbsjA3ybida3x6eXK/ZLJAeCg6OyFDmxxG/HkSntVQChbH5ZLe3nGH0Jkxb+tCMXwkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafae\\source\\repos\\MediatRDemo\\BlazorUi\\BlazorUi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
